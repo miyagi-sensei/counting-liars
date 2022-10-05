@@ -30,7 +30,7 @@ The minimum number of cows that must be lying.
 ### Scoring mode
 HKOI
 
-## Judging mode
+### Judging mode
 Plain text comparison
 
 ### Solution program
