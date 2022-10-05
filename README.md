@@ -1,4 +1,5 @@
 # Title: Counting Liars
+## Task ID: U004
 ### Main Statement
 ```!
 Bessie the cow is hiding somewhere along the number line. Each of Farmer John's $N$ other cows ($1≤N≤1000$) have a piece of information to share: the $i$-th cow either says that Bessie is hiding at some location less than or equal to $p_i$, or that Bessie is hiding at some location greater than or equal to $p_i$ ($0≤p_i≤10^9$).
